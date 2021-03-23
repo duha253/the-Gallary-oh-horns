@@ -38,3 +38,62 @@ Start time: __9:30___
 Finish time: __10:00_
 
 Actual time needed to complete: __about half an hour
+
+
+
+Feature 1: Pagination
+**As a user, I want to have the ability to view additional images so that my view does not become cluttered**.
+
+Number and name of feature: #1 Pagination________________________
+
+Estimate of time needed to complete: houer_____
+
+Start time: __3:02___
+
+Finish time: __4:30_
+
+Actual time needed to complete: 1 and hal__
+
+
+Feature 2: Templating
+
+**As a user, I want all of the images to be displayed in a consistent manner, so that it is easy to scan the collection of images**.
+Number and name of feature: #2_Templating______________________
+
+Estimate of time needed to complete: 3 or 4____
+
+Start time: __4:30___
+
+Finish time: __its take seperated long time _
+
+Actual time needed to complete: __
+
+
+Styling with Flexbox
+
+**As a user, I want a simple, clean looking UI so that my photo gallery clearly displays the images**.
+Number and name of feature: #3_Flexbox_____________________
+
+Estimate of time needed to complete: 1houer____
+
+Start time: __10___
+
+Finish time: __its take seperated long time _
+
+Actual time needed to complete: __
+
+
+
+
+Feature 4: Sort the images
+
+**As a user, I want to be able to sort the images so that there is an order to their rendering**.
+Number and name of feature: #4___Sort the images___________________
+
+Estimate of time needed to complete: 1houer____
+
+Start time: _____
+
+Finish time: ___
+
+Actual time needed to complete: __
